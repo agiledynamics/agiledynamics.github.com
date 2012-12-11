@@ -1,0 +1,23 @@
+#body {background-color: rgb(227,233,210)} 
+body {background-color: white} 
+h1 {font-size: 36pt} 
+h2 {color: blue} 
+p {margin-left: 50px} 
+
+#logo {
+  text-align: center
+}
+
+div.hrline {
+  height: 1px;
+  width: 80%;
+  background:#446791;
+  margin: 20px auto;
+}
+div.hrline hr {
+  display:none;
+}
+
+#copyright {
+  text-align: center
+}

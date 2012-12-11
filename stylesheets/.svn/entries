@@ -1,0 +1,52 @@
+8
+
+dir
+32
+svn+ssh://dev.agiledynamics.com/usr/local/svnroot/agile/web/trunk/public/stylesheets
+svn+ssh://dev.agiledynamics.com/usr/local/svnroot/agile/web
+
+
+
+2007-06-05T20:17:01.839761Z
+24
+mmm
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+01b0e30c-2428-0410-966a-ca913912b297
+
+possible_style.css
+file
+
+
+
+
+2007-06-05T20:52:39.000000Z
+a00f8e6b6212de7b00469b8f247f5a9f
+2007-06-05T20:12:56.201198Z
+23
+mmm
+
+agile.css
+file
+
+
+
+
+2007-06-05T20:52:39.000000Z
+a52e7554802fd7878a888e07cf7a7062
+2007-06-05T19:53:47.830551Z
+20
+mmm
+
